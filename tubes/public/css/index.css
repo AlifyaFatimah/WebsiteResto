@@ -1,0 +1,98 @@
+@import url(https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap);
+body {
+	font-family: 'Poppins';
+	color: #141714; 
+}
+
+a {
+	color: #406F3C;
+}
+ 
+.text-base {
+	font-style: normal;
+	font-size: 24px;
+	line-height: 140%;
+
+	letter-spacing: 0.01em;
+}
+
+.text-xs {
+	font-style: normal;
+	font-size: 16px;
+	line-height: 24px;
+
+	letter-spacing: 0.01em;
+}
+
+.text-2xs{
+	font-style: normal;
+	font-size: 14px;
+	line-height: 18px;
+
+	letter-spacing: 0.01em;
+}
+.text-bold {
+	font-weight: 700;
+}
+
+.text-semi {
+	font-weight: 600;
+}
+
+.text-reg {
+	font-weight: 400;
+}
+
+.btn-outline-primary{
+	color: #104B0B;
+	border-color: #104B0B;
+}
+.btn-primary{
+	background: #104B0B;
+}
+
+.btn-primary:hover {
+	background-color: #ffffff;
+	color: #104B0B;
+}
+
+.btn-outline-primary:hover {
+	background-color: #104B0B;
+}
+
+.form-outline {
+	text-align: left;
+}
+
+.side-bar{
+	background-color: #F8FAF8;
+}
+
+.side {
+	font-size: 18px;
+	font-weight: 600;
+	background-color: #E7EDE7;
+	color: #104B0B;
+	border-radius: 10px;
+}
+
+.side:hover {
+	color: #ffffff;
+	background-color: #104B0B;
+}
+.oside{
+	font-size: 18px;
+	color: #104B0B;
+	border-radius: 10px;
+}
+.oside:hover{
+	color: #ffffff;
+	background-color: #104B0B;
+	font-weight: 600;
+}
+
+.nav-item:active {
+	font-weight: 600;
+	color: #104B0B;
+	background-color: #E7EDE7;
+}

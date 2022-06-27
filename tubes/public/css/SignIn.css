@@ -1,0 +1,7 @@
+body {
+    background-image: url("../../Image/Background.png");
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+}

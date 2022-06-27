@@ -1,0 +1,162 @@
+.c01179 {
+  margin: 32px 0 24px;
+}
+@media (min-width: 768px) and (max-width:1299px) {
+  .c01179 {
+    margin: 40px 0 24px;
+  }
+}
+.c01179.centered {
+  display: flex;
+  justify-content: center;
+}
+.c01179 .item {
+  width: 100%;
+  display: flex;
+}
+.c01188 {
+  display: flex;
+}
+@media (min-width: 768px) and (max-width:1299px) {
+  .c01188 {
+    width: 100%;
+  }
+}
+.c01188 > section:last-of-type {
+  width: auto;
+  margin: 0;
+}
+.c01188 > section:nth-child(1) {
+  width: 270px;
+}
+.c01188 > section:nth-child(2) {
+  width: 298px;
+}
+.c01188 > section:nth-child(3) {
+  width: 243px;
+}
+.c01188 > section:nth-child(4) {
+  width: 216px;
+}
+@media (max-width: 767px) {
+  .c01188 > section:nth-child(1) {
+    width: unset;
+  }
+}
+.c01248 {
+  width: 240px;
+  display: flex;
+  margin-right: 10px;
+}
+.c01247 {
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  flex-direction: column;
+}
+.c01183 {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  flex-grow: 0;
+  align-items: center;
+  border-radius: 25px;
+  margin-bottom: 5px;
+  justify-content: center;
+}
+@media (min-width: 768px) and (max-width:1299px) {
+  .c01183 {
+    width: 32px;
+    height: 32px;
+  }
+  .c01183 > p {
+    font-size: 14px;
+    font-weight: bold;
+  }
+}
+.c01183 > p {
+  line-height: 23px;
+}
+.c01180 {
+  color: white;
+  border: 3px solid #104B0B;
+  background-color: #104B0B;
+}
+.c01123 {
+  margin: 0;
+  display: block;
+  max-width: 100%;
+  font-family: Lato;
+}
+.c01119 {
+  font-size: 23px;
+  font-family: Lato;
+  font-weight: 500;
+  line-height: 1.334;
+}
+.c01185 {
+  flex-grow: 1;
+  margin-top: 5px;
+}
+@media (max-width: 767px) {
+  .c01185 {
+    margin-top: 12px;
+  }
+}
+.c01228 {
+  color: #BDBDBD;
+}
+.c01225 {
+  color: #212121 !important;
+}
+.c01254 {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  flex-direction: row;
+}
+.c01184 {
+  margin-right: 10px;
+}
+.c01184 p {
+  font-size: 20px;
+  font-weight: bold;
+}
+@media (max-width:1299px) {
+  .c01184 p {
+    font-size: 14px;
+    line-height: 18px;
+  }
+}
+@media (max-width:1299px) {
+  .c01184 p span {
+    line-height: 18px;
+  }
+}
+.c01123 {
+  margin: 0;
+  display: block;
+  max-width: 100%;
+  font-family: Lato;
+}
+.c01231 {
+  width: 2px;
+  height: 2px;
+  flex-grow: 1;
+  background-color: #9f9f9f;
+}
+@media (max-width: 767px) {
+  .c01231 {
+    display: none;
+  }
+}
+.c01182 {
+  background-color: #104B0B;
+}
+.c0195 {
+  font-size: 14px;
+  font-family: Lato;
+  font-weight: 400;
+  line-height: 1.43;
+}
